@@ -7,6 +7,7 @@ Select a picture folder containing the images to be moved.
 View the total number of subfolders and pictures.
 Calculate the ratio of pictures to subfolders.
 Move pictures evenly into each subfolder based on the selected ratio.
+![Screenshot 2024-05-09 230137](https://github.com/DomMinnich/PicturesToSubfolders/assets/113619219/6b46acb9-a5f5-4ab3-96ba-5ca58aaef588)
 
 Requirements
 Python 3.x
